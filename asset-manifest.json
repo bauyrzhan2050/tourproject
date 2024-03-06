@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bauyrzhan2050/tourproject.git/static/css/main.f855e6bc.css",
-    "main.js": "/bauyrzhan2050/tourproject.git/static/js/main.555a60e7.js",
-    "static/js/453.b3862c75.chunk.js": "/bauyrzhan2050/tourproject.git/static/js/453.b3862c75.chunk.js",
-    "index.html": "/bauyrzhan2050/tourproject.git/index.html",
-    "main.f855e6bc.css.map": "/bauyrzhan2050/tourproject.git/static/css/main.f855e6bc.css.map",
-    "main.555a60e7.js.map": "/bauyrzhan2050/tourproject.git/static/js/main.555a60e7.js.map",
-    "453.b3862c75.chunk.js.map": "/bauyrzhan2050/tourproject.git/static/js/453.b3862c75.chunk.js.map"
+    "main.css": "/tourproject/static/css/main.f855e6bc.css",
+    "main.js": "/tourproject/static/js/main.39ec2809.js",
+    "static/js/453.b3862c75.chunk.js": "/tourproject/static/js/453.b3862c75.chunk.js",
+    "index.html": "/tourproject/index.html",
+    "main.f855e6bc.css.map": "/tourproject/static/css/main.f855e6bc.css.map",
+    "main.39ec2809.js.map": "/tourproject/static/js/main.39ec2809.js.map",
+    "453.b3862c75.chunk.js.map": "/tourproject/static/js/453.b3862c75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.555a60e7.js"
+    "static/js/main.39ec2809.js"
   ]
 }
